@@ -70,5 +70,8 @@
     "tmp": "tmp/nodebb-theme-gamebasics-4.1.92.tgz_1478536010910_0.392403926467523"
   },
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/nodebb-theme-gamebasics/-/nodebb-theme-gamebasics-4.1.92.tgz"
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-gamebasics/-/nodebb-theme-gamebasics-4.1.92.tgz",
+  "dependencies": {
+    "string": "^3.3.3"
+  }
 }

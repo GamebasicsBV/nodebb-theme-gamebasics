@@ -1,6 +1,6 @@
 'use strict';
 
-var S = require.main.require('string');
+var S = require('string');
 var	meta = module.parent.require('./meta');
 
 var library = {};
