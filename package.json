@@ -1,10 +1,77 @@
 {
   "name": "nodebb-theme-gamebasics",
-  "version": "0.0.0",
-  "description": "Custom gamebasics theme",
+  "version": "4.2.1",
+  "nbbpm": {
+    "compatibility": "^0.8.2 || ^0.9.0 || ^1.0.0"
+  },
+  "description": "Gamebasics theme for nodeBB",
   "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamebasicsBV/nodebb-theme-gamebasics.git"
+  },
   "keywords": [
-
+    "nodebb",
+    "theme",
+    "forum",
+    "bootstrap",
+    "responsive"
   ],
-  "license": "MIT"
+  "contributors": [
+    {
+      "name": "Andrew Rodrigues",
+      "email": "andrew@designcreateplay.com",
+      "url": "https://github.com/psychobunny"
+    },
+    {
+      "name": "Julian Lam",
+      "email": "julian@designcreateplay.com",
+      "url": "https://github.com/julianlam"
+    },
+    {
+      "name": "Barış Soner Uşaklı",
+      "email": "baris@designcreateplay.com",
+      "url": "https://github.com/barisusakli"
+    },
+    {
+      "name": "Jurgen Welschen",
+      "email": "jurgen.welschen@gmail.com",
+      "url": "https://github.com/meilu"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+  },
+  "gitHead": "34e58b61bc966271bdbbe6527670f7002c255dff",
+  "homepage": "https://github.com/GamebasicsBV/nodebb-theme-gamebasics#readme",
+  "_id": "nodebb-theme-gamebasics@4.1.92",
+  "scripts": {},
+  "_shasum": "2f0e64c851785a5509c9dbc22f05ebb60833bd2b",
+  "_from": "nodebb-theme-gamebasics@4.1.92",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.3.0",
+  "_npmUser": {
+    "name": "meilu",
+    "email": "jurgen.welschen@gmail.com"
+  },
+  "dist": {
+    "shasum": "2f0e64c851785a5509c9dbc22f05ebb60833bd2b",
+    "tarball": "https://registry.npmjs.org/nodebb-theme-gamebasics/-/nodebb-theme-gamebasics-4.1.92.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "meilu",
+      "email": "jurgen.welschen@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nodebb-theme-gamebasics-4.1.92.tgz_1478536010910_0.392403926467523"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-gamebasics/-/nodebb-theme-gamebasics-4.1.92.tgz",
+  "dependencies": {
+    "string": "^3.3.3"
+  }
 }
