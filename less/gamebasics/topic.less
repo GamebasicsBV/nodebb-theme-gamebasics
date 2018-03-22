@@ -40,11 +40,16 @@
 
 	.posts {
 		> li {
-            .post-content {
+            &[component="post"] {
                 background:  @panel-background;
                 padding: 15px 10px 10px 10px;
                 margin-bottom: 10px;
                 border-radius: 3px;
+
+                hr {
+                    border-color: rgba(182, 182, 182, 0.2);
+                }
+
             }
             margin-bottom: 10px;			
 		
