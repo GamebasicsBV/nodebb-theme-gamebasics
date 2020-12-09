@@ -1,11 +1,11 @@
 {
   "name": "nodebb-theme-gamebasics",
-  "version": "4.2.10",
+  "version": "4.2.20",
   "nbbpm": {
     "compatibility": "~1.*.*"
   },
   "description": "Gamebasics theme for nodeBB",
-  "main": "theme.less",
+  "main": "lib/theme.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GamebasicsBV/nodebb-theme-gamebasics.git"
