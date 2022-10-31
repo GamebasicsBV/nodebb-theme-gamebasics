@@ -2,7 +2,7 @@
   "name": "nodebb-theme-gamebasics",
   "version": "4.3.0",
   "nbbpm": {
-    "compatibility": "~1.*.*"
+    "compatibility": "~2.*.*"
   },
   "description": "Gamebasics theme for nodeBB",
   "main": "lib/theme.js",
