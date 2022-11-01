@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-gamebasics",
-  "version": "4.3.0",
+  "version": "4.4.0",
   "nbbpm": {
     "compatibility": "~2.*.*"
   },
